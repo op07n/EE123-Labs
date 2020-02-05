@@ -5,7 +5,7 @@ http://binder.pangeo.io/v2/gh/op07n/EE123-Labs.git/master
 https://notebooks.gesis.org/binder/v2/gh/op07n/EE123-Labs.git/master
 
 
-See  https://inst.eecs.berkeley.edu/~ee123/sp16/lab/
+See  https://inst.eecs.berkeley.edu/~ee123/sp16/lab/      https://inst.eecs.berkeley.edu/~ee123/sp16/labs.html
 
 # EE123-Labs
 ### Digital Signal Processing | Spring 2016 with Prof. Miki Lustig
