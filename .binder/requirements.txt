@@ -1,4 +1,3 @@
-librtlsdr
 numpi
 matplotlib
 bokeh
